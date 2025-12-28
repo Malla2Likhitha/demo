@@ -1,3 +1,19 @@
+## Table of Contents
+
+1. [Overview](#overview)
+2. [System Design](#system-design)
+3. [Architecture & Separation of Concerns](#architecture--separation-of-concerns)
+4. [Overall Architecture](#21-overall-architecture)
+5. [Main Components & Responsibilities](#22-main-components--their-responsibilities)
+6. [End-to-End Data Flow](#23-end-to-end-data-flow)
+7. [Data Pipeline & Runtime Execution](#data-flow-data-pipeline--runtime-execution)
+8. [Learning Logic (Re-Ranking & Personalization)](#learning-logic-re-ranking--personalization)
+9. [AI Usage](#ai-usage)
+10. [Sample Dataset](#sample-dataset)
+11. [Setup & Run Instructions](#setup--run-instructions)
+12. [Data Ingestion, Search & Events](#data-ingestion-search--events)
+13. [Frontend (Streamlit UI)](#frontend-streamlit-ui)
+
 # Contextual Product Search System
 
 ## Overview
